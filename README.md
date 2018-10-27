@@ -1,5 +1,5 @@
 # fBGD-version2
-if you find there is config problem in fbgd (https://github.com/fajieyuan/fBGD), use this zip file and you can run it directly in your eclipse with jdk 1.7 and Marven.
+if you find there is config problem in fbgd (https://github.com/fajieyuan/fBGD), use this zip file and you can run it directly in your eclipse with jdk 1.7 and Marven.  If you use windows, change the data path in librec.conf
 
 
 
